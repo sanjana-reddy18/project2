@@ -1,0 +1,15 @@
+1. Install the pytest package using the command
+      "pip install pytest"
+
+version control with git
+
+1. git init
+2. git add test.py
+3. git commit -m "commiting test.py file"
+4. git log (To check the committed status)
+
+
+
+
+(function names starting with "test_" are for pytest)
+pytest test.py -v (This command is used to run all the tests)
